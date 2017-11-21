@@ -1,0 +1,17 @@
+{
+  "name": "delete_coupons",
+  "version": "1.0.0",
+  "description": "Script to delete coupons from BC store based on csv line items.",
+  "main": "delete_coupons.js",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "request": "^2.83.0",
+    "thread-sleep": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
